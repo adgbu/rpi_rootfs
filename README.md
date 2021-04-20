@@ -1,3 +1,8 @@
+Forked from kclyu/rpi-webrtc-streamer. 
+So far 100% unchanged.
+
+---
+
 # RootFS for Raspberry PI
 This repo provides tools to create rootfs so that you can create a cross compile environment for Raspberry PI on Ubuntu Linux using bash script and python.
 
